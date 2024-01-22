@@ -1,0 +1,26 @@
+[
+  {
+    "email": "admin@mail.com",
+    "password": "123123",
+    "name": "The Admin",
+    "address": "Jl. Klengkeng no 8, 65116",
+    "phoneNumber": "081111111111",
+    "role": "admin"
+  },
+  {
+    "email": "budi@mail.com",
+    "password": "123123",
+    "name": "Budi Keren",
+    "address": "Jl. Klengkeng no 9, 65116",
+    "phoneNumber": "082222222222",
+    "role": "user"
+  },
+  {
+    "email": "cindy@mail.com",
+    "password": "123123",
+    "name": "Cindy Kece",
+    "address": "Jl. Klengkeng no 10, 65116",
+    "phoneNumber": "083333333333",
+    "role": "user"
+  }
+]
